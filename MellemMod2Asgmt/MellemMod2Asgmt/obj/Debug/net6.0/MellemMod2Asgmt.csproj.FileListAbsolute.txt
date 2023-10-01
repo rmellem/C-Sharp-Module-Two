@@ -1,0 +1,28 @@
+C:\Users\Rebecca\source\repos\MellemMod2Asgmt\MellemMod2Asgmt\bin\Debug\net6.0\MellemMod2Asgmt.exe
+C:\Users\Rebecca\source\repos\MellemMod2Asgmt\MellemMod2Asgmt\bin\Debug\net6.0\MellemMod2Asgmt.deps.json
+C:\Users\Rebecca\source\repos\MellemMod2Asgmt\MellemMod2Asgmt\bin\Debug\net6.0\MellemMod2Asgmt.runtimeconfig.json
+C:\Users\Rebecca\source\repos\MellemMod2Asgmt\MellemMod2Asgmt\bin\Debug\net6.0\MellemMod2Asgmt.dll
+C:\Users\Rebecca\source\repos\MellemMod2Asgmt\MellemMod2Asgmt\bin\Debug\net6.0\MellemMod2Asgmt.pdb
+C:\Users\Rebecca\source\repos\MellemMod2Asgmt\MellemMod2Asgmt\obj\Debug\net6.0\MellemMod2Asgmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebecca\source\repos\MellemMod2Asgmt\MellemMod2Asgmt\obj\Debug\net6.0\MellemMod2Asgmt.AssemblyInfoInputs.cache
+C:\Users\Rebecca\source\repos\MellemMod2Asgmt\MellemMod2Asgmt\obj\Debug\net6.0\MellemMod2Asgmt.AssemblyInfo.cs
+C:\Users\Rebecca\source\repos\MellemMod2Asgmt\MellemMod2Asgmt\obj\Debug\net6.0\MellemMod2Asgmt.csproj.CoreCompileInputs.cache
+C:\Users\Rebecca\source\repos\MellemMod2Asgmt\MellemMod2Asgmt\obj\Debug\net6.0\MellemMod2Asgmt.dll
+C:\Users\Rebecca\source\repos\MellemMod2Asgmt\MellemMod2Asgmt\obj\Debug\net6.0\refint\MellemMod2Asgmt.dll
+C:\Users\Rebecca\source\repos\MellemMod2Asgmt\MellemMod2Asgmt\obj\Debug\net6.0\MellemMod2Asgmt.pdb
+C:\Users\Rebecca\source\repos\MellemMod2Asgmt\MellemMod2Asgmt\obj\Debug\net6.0\MellemMod2Asgmt.genruntimeconfig.cache
+C:\Users\Rebecca\source\repos\MellemMod2Asgmt\MellemMod2Asgmt\obj\Debug\net6.0\ref\MellemMod2Asgmt.dll
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 2\MellemMod2Asgmt\MellemMod2Asgmt\bin\Debug\net6.0\MellemMod2Asgmt.exe
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 2\MellemMod2Asgmt\MellemMod2Asgmt\bin\Debug\net6.0\MellemMod2Asgmt.deps.json
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 2\MellemMod2Asgmt\MellemMod2Asgmt\bin\Debug\net6.0\MellemMod2Asgmt.runtimeconfig.json
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 2\MellemMod2Asgmt\MellemMod2Asgmt\bin\Debug\net6.0\MellemMod2Asgmt.dll
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 2\MellemMod2Asgmt\MellemMod2Asgmt\bin\Debug\net6.0\MellemMod2Asgmt.pdb
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 2\MellemMod2Asgmt\MellemMod2Asgmt\obj\Debug\net6.0\MellemMod2Asgmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 2\MellemMod2Asgmt\MellemMod2Asgmt\obj\Debug\net6.0\MellemMod2Asgmt.AssemblyInfoInputs.cache
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 2\MellemMod2Asgmt\MellemMod2Asgmt\obj\Debug\net6.0\MellemMod2Asgmt.AssemblyInfo.cs
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 2\MellemMod2Asgmt\MellemMod2Asgmt\obj\Debug\net6.0\MellemMod2Asgmt.csproj.CoreCompileInputs.cache
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 2\MellemMod2Asgmt\MellemMod2Asgmt\obj\Debug\net6.0\MellemMod2Asgmt.dll
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 2\MellemMod2Asgmt\MellemMod2Asgmt\obj\Debug\net6.0\refint\MellemMod2Asgmt.dll
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 2\MellemMod2Asgmt\MellemMod2Asgmt\obj\Debug\net6.0\MellemMod2Asgmt.pdb
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 2\MellemMod2Asgmt\MellemMod2Asgmt\obj\Debug\net6.0\MellemMod2Asgmt.genruntimeconfig.cache
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 2\MellemMod2Asgmt\MellemMod2Asgmt\obj\Debug\net6.0\ref\MellemMod2Asgmt.dll
